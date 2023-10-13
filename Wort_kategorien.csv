@@ -1,17 +1,25 @@
 ﻿Wort;Kategorie
+Abhängigkeit;Abhängigkeit
 Ablauf Kindesschutz Schulsozialarbeit;Ablauf Kindesschutz Schulsozialarbeit
-Administrationsaufwand;Administrationsaufwand
-Administrativaufwand steigt;Administrationsaufwand
+Administration;Administration
+Administrationsaufwand;Administration
+Administrativaufwand steigt;Administration
+Dokumentenproblematik;Administration
+Adipöse Patient*innen;Adipositas
 Alte Organisationsstrukturen;Alte Organisationsstrukturen
 Altersarmut;Altersarmut (weiblich)
 Altersarmmut;Altersarmut (weiblich)
 Altersarmut ist weiblich;Altersarmut (weiblich)
+Anerkennung der Gebärdensprache;Anerkennung Gebärdensprache
 Angebot;Angebot
 Sicherstellung Dienstleistungen;Angebot
 Qualität;Angebot
 Fragmentierte Angebotslandschaft;Angebot
 Platzierungsanfragen;Angebot
+Betreute Wohnformen;Angebot
 Tagesstrukturen für Junge;Angebot
+Kaum KL Integrationsangebote;Angebot
+Weiterentwicklung Chatangebot;Angebot
 Arbeit 4.0;Arbeit 4.0
 Arbeitsagogik;Arbeitsagogik
 Arbeitsbedingungen;Arbeitsbedingungen
@@ -20,51 +28,75 @@ Personalschlüssel;Arbeitsbedingungen
 Träge Sozialorganisationen;Arbeitsbedingungen
 Arbeitsintegration;Arbeitsintegration
 Arbeitsmarktintegration;Arbeitsintegration
+Berufsintegration;Arbeitsintegration
+Berufliche Intergration;Arbeitsintegration
+Arbeitsintegration für Junge;Arbeitsintegration für Junge
+Jugendarbeitslosigkeit;Arbeitsintegration für Junge
 Armut;Armut
 Armut nimmt zu;Armut
+Armut / Kosten;Armut
 Asylwesen;Asylwesen
 Asyl;Asylwesen
+Geflüchtete;Asylwesen
 Anstieg der Klient*innenimAsylbereich;Asylwesen
 Ungebremste hohe AnzahlanAsylsuchendenaufderzentralenmittelmeerroute;Asylwesen
+Flüchtlingsströme;Asylwesen
+Zunahme von Fluchtbewegungen;Asylwesen
+Flüchtlingskrise;Asylwesen
+Zunahme Asylgesuche;Asylwesen
 Steigende Asylquote;Asylwesen
 Einsparung Asylwesen;Asylwesen
 Dynamik Asyl;Asylwesen
 Ungleichheit im Migrationsbereich;Asylwesen
 Unterschiede Grundbedarf Asylstatus;Asylwesen
 Asylunterkünfte;Asylwesen
+Unterkünfte Asylwesen;Asylwesen
 Unterkünfte Flüchtlinge;Asylwesen
 Ausbildung von Jugendlichen;Ausbildung von Jugendlichen
 Lehrstellenmarkt;Ausbildung von Jugendlichen
 Ausländerfeindlichkeit;Ausländerfeindlichkeit
 Auszug aus Wohnheimen;Auszug aus Wohnheimen
+Beruf oder Job?;Beruf oder Job?
+Berufsbildner*innen;Berufsbildner*innen
 Beziehungsthemen;Beziehungsthemen
 Datenschutzgesetz;Datenschutz
 Revidiertes Datenschutzgesetz;Datenschutz
 Neues Datenschutzgesetz;Datenschutz
 IT-Kosten und Datenschutz;Datenschutz
-Digitalisierung;Digitalisierung
-Digitalität;Digitalisierung
-Digitalisierung der Dienstleistung;Digitalisierung
-Weiterentwicklung Chatangebot;Digitalisierung
+Dauer IV-Verfahren;Dauer IV-Verfahren
+Digitalisierung;Digitalisierung/Digitalität
+Digitalität;Digitalisierung/Digitalität
+Digitalisierung der Dienstleistung;Digitalisierung/Digitalität
 Diversität;Diversität
+Heterogenität;Diversität
 Druck am Arbeitsplatz;Druck am Arbeitsplatz
 Ehrenamtliches Engagement;Ehrenamtliches Engagement
 Freiwilligenarbeit;Ehrenamtliches Engagement
 Weniger Freiwillige;Ehrenamtliches Engagement
-Entwicklung des Gesundheitswesens;Entwicklung des Gesundheitswesens
-Krankenkasse;Entwicklung des Gesundheitswesens
-Kostenexplosion im Gesundheitswesen;Entwicklung des Gesundheitswesens
-Pflegefinanzierung;Entwicklung des Gesundheitswesens
-Segmentierung im Gesundheitswesen;Entwicklung des Gesundheitswesens
+Entwicklung des Gesundheitswesens;Entwicklung Gesundheitswesen
+Krankenkasse;Entwicklung Gesundheitswesen
+Tarif;Entwicklung Gesundheitswesen
+Prämienverbilligung;Entwicklung Gesundheitswesen
+Kostenexplosion im Gesundheitswesen;Entwicklung Gesundheitswesen
+Pflegefinanzierung;Entwicklung Gesundheitswesen
+Segmentierung im Gesundheitswesen;Entwicklung Gesundheitswesen
+Hausarztmedizin;Entwicklung Gesundheitswesen
+GD-Zürich;Entwicklung Gesundheitswesen
 Erreichbarkeit Zielgruppe;Erreichbarkeit Zielgruppe
 Bildungsfremde Personen erreichen;Erreichbarkeit Zielgruppe
+Zunahme Nikotinkonsum durchE-Zigis;E-Zigaretten/Vapen
+Vapen;E-Zigaretten/Vapen
 Fachkräftemangel;Fachkräftemangel
+Der Fachkräftemangel;Fachkräftemangel
 Fehlende Fachkräfte;Fachkräftemangel
 Arbeitskräftemangel;Fachkräftemangel
 Nachwuchs-Fachkräftemangel;Fachkräftemangel
 Ausgetrockneter Stellenmarkt;Fachkräftemangel
+Personalmangel, Machbarkeit, Finanzierbarkeit;Fachkräftemangel
 Entprofessionalisierung und Fachkräftemangel;Fachkräftemangel
 Fallzahlen;Fallzahlen
+Fallbelastung und Komplexität;Fallzahlen
+Fallbelastung Sozialarbeitende;Fallzahlen
 Finanzielle Existenzsicherung;Finanzielle Existenzsicherung
 Grundeinkommen;Finanzielle Existenzsicherung
 Direktabzug der Steuern;Finanzielle Existenzsicherung
@@ -80,25 +112,30 @@ Sparschraube in d.Kirchen;Finanzierung
 Gendersprache;Gendersprache
 Herausforderung in Kommunikation;Herausforderung in Kommunikation
 Ineffizienz;Ineffizienz
-Integration vs. Inklusion;Integration vs. Inklusion
-Inklusion;Integration vs. Inklusion
-Echte Integration;Integration vs. Inklusion
-Grenzen der Integration;Integration vs. Inklusion
+Inklusion;Inklusion
+Teilhabe;Inklusion
+Integration vs. Inklusion;Inklusion
+Echte Integration;Inklusion
+Grenzen der Integration;Inklusion
 Integration Flüchtlinge;Integration Flüchtlinge
 Integration von Flüchtlingen;Integration Flüchtlinge
 Integration Flüchtlinge/vorläufig Aufgenommene;Integration Flüchtlinge
-Kaum KL Integrationsangebote;Integration Flüchtlinge
 Migration;Integration Flüchtlinge
-Integration von Fremdsprachigen;Integration von Fremdsprachigen
-Sprachkurse-Integration;Integration von Fremdsprachigen
+Integration von Fremdsprachigen;Integration Fremdsprachiger
+Sprachkurse-Integration;Integration Fremdsprachiger
 Interdisziplinäre Zusammenarbeit;Interdisziplinäre Zusammenarbeit
 Zusammenarbeit unter denInstitutionen;Interinstitutionelle Zusammenarbeit
-Jugendarbeitslosigkeit;Jugendarbeitslosigkeit
+Isolation von Eltern;Isolation von Eltern
 Junge Erwachsene;Junge Erwachsene
+Justiz via Menschlichkeit;Justiz via Menschlichkeit
+Karriere;Karriere
 Kinderbetreuung;Kinderbetreuung/Erziehung
-Kindernotfall;Kinderbetreuung/Erziehung
+Kinderbetreuungskosten;Kinderbetreuung/Erziehung
+Kinderbtreuungskosten;Kinderbetreuung/Erziehung
 Erziehung Erwartungen;Kinderbetreuung/Erziehung
+Fehlende Erziehungskompetenzen;Kinderbetreuung/Erziehung
 Herausfordernde Kinder IMS;Kinderbetreuung/Erziehung
+Kindernotfall;Kinderbetreuung/Erziehung
 Kindesmissbrauch / Menschenhandel;Kindesmissbrauch / Menschenhandel
 Klimakrise;Klimakrise
 Klimawandel;Klimakrise
@@ -107,6 +144,7 @@ Alter;Leben im Alter
 Altersarbeit;Leben im Alter
 Langzeitarbeitslosigkeit und Alter;Leben im Alter
 Wohnen im Alter;Leben im Alter
+Klientel Langzeitpflege;Leben im Alter
 Leistungsorientierung;Leistungsorientierung
 Steigender Leistungsdruck;Leistungsorientierung
 Sozialearbeit als Dienstleistung;Leistungsorientierung
@@ -114,71 +152,113 @@ Leitungspositionen;Leitungspositionen
 Löhne;Löhne
 Lohnklasse als SA;Löhne
 Mehrfachproblematiken in Fallführung;Mehrfachproblematiken
+Mehrfachproblematiken, berufliche Grundbildung;Mehrfachproblematiken
+Psychosozial mehrfachbelastete Schwangere;Mehrfachproblematiken
 Nachhaltigkeit;Nachhaltigkeit
 Nichtbezug Sozialleistungen;Nichtbezug Sozialleistungen
 Obdachlosigkeit;Obdachlosigkeit
+Odachlosigkeit;Obdachlosigkeit
+Unversicherte, wohnsitzlose Personen;Obdachlosigkeit
 Perspektiven für Jugendliche;Perspektiven für Jugendliche
 Politik;Politik
 Drogenpolitik;Politik
 Asylpolitik;Politik
 Kanton bürgerlich dominiert,versagtbeiArmutsbekämpfung;Politik
+Politik fürs Volk?;Politik
+Politische Partizipation;Politische Partizipation
 Privatkonkurs;Privatkonkurs
 Psychische Erkrankungen;Psychische Erkrankungen
 Psychische Störungsbilder;Psychische Erkrankungen
 Mental Health;Psychische Erkrankungen
+Psychische Gesundheit;Psychische Erkrankungen
+Schlechtere psychische Gesundheit;Psychische Erkrankungen
 Psych. und psychosoz.Probleme;Psychische Erkrankungen
+Zunahme psychischer Belastungen;Psychische Erkrankungen
+Zunehmende psychische Erkrankungen;Psychische Erkrankungen
 Psychische Gesundheit Jugendliche;Psychische Gesundheit Jugendliche
+Psychische Gesundheit JJE;Psychische Gesundheit Jugendliche
 Revision des SchKG;Revision des SchKG
+Samenspende;Samenspende
 Schlecht ausgebildetes Personal;Schlecht ausgebildetes Personal
 Schulsozialpädagogik;Schulsozialpädagogik
 Schutzstatus S;Schutzstatus S
 Selbstbestimmungsgesetz;Selbstbestimmungsgesetz
+UNO-BRK;Selbstbestimmungsgesetz
 SLBG;Selbstbestimmungsgesetz
+SEBE;Selbstbestimmungsgesetz
+Service-User-Involvement;Service-User-Involvement
+Sexualisierte Gewalt;Sexualisierte Gewalt
+Umgang mit SozialenMedien;Social Media
+Finanzierung der Sozialbegleitung;Sozialbegleitung AJB
+AJB/Einstufung Sozialbegleitung;Sozialbegleitung AJB
 Soziale Arbeit u.Gesundheit;Soziale Arbeit u.Gesundheit
+Soziale Kosten;Soziale Kosten
 Soziales Gefüge;Soziales Gefüge
 Stratifizierung;Soziales Gefüge
 Verdichtung;Soziales Gefüge
+Demographie;Soziales Gefüge
 Demographischer Wandel;Soziales Gefüge
 Generationen;Soziales Gefüge
+Gentrifikation;Soziales Gefüge
+Polarisierung gesellschaftliche Entfremdung;Soziales Gefüge
 Kleine Sozialhilfe;Sozialhilfe
 Integration von Sozialhilfebezügern;Sozialhilfe
+Soziale Hilfe;Sozialhilfe
 Jugendliche und JungeErwachseneinderSozialhilfe;Sozialhilfe
 Sprachförderbedarf;Sprachförderbedarf
 Stigmatisierung;Stigmatisierung
+Stipendien;Stipendien
 Subjektfinanzierung;Subjektfinanzierung
 Sucht;Sucht
 Medizinalisierung von Sucht;Sucht
 Suizidalität;Suizidalität
+Temporär Büros;Temporärbüros
 Teuerung;Teuerung
 Kostenentwicklung;Teuerung
+Steigende Kosten;Teuerung
 Gestiegene Kosten;Teuerung
+Hohe Kosten;Teuerung
+Zu hohe Kosten;Teuerung
 Teuerung und Krankenkassenprämien;Teuerung
 Teuerung / Inflation;Teuerung
-Kaufkraf Mittelstand;Teuerung
 Inflation, Kaufkraftverlust;Teuerung
+Steigende Preise;Teuerung
+Kaufkraf Mittelstand;Teuerung
+Therapieangebote Psychiatrie;Therapieangebote
+Therapieangebote für Kindeltern;Therapieangebote
+Traumabedingte Entwicklungsverzögerungen;Trauma
+Überlastung Kinder- undJugendpsychiatrie;Überlastung Kinder-/Jugendpsychiatrie
+Ukraine-Russland Krieg;Ukraine-Russland Krieg
 Umsetzung Berufskodex;Umsetzung Berufskodex
 UMAS;Unbegleitete minderjährige Asylsuchende
+MNA;Unbegleitete minderjährige Asylsuchende
 Flüchtlinge, MNA/UMA;Unbegleitete minderjährige Asylsuchende
+Unterbringung geflüchtete Minderjährige;Unbegleitete minderjährige Asylsuchende
 Unterschätzte Profession SA;Unterschätzte Profession SA
+Verantwortung;Verantwortung
 Vereinsamung;Vereinsamung
 Vereinsamung im Alter;Vereinsamung
 Verschuldung von Sozialhilfebezügerinnen;Verschuldung
 Verschuldung von Haushalten;Verschuldung
 Versicherungssysteme;Versicherungssysteme
-Werte +Normen leben;Werte + Normen
-Sozialer Frieden;Werte + Normen
-Generationenübergreifendes Denken;Werte + Normen
-Solidarität;Werte + Normen
-Chancengleichheit;Werte + Normen
+Werte +Normen leben;Werte leben
+Sozialer Frieden;Werte leben
+Generationenübergreifendes Denken;Werte leben
+Solidarität;Werte leben
+Chancengleichheit;Werte leben
+Chancengerechtigkeit für Kinder;Werte leben
 Wohnungsnot;Wohnungsnot/-preise
 Wohnungsnot - Sanierungen;Wohnungsnot/-preise
 Wohnungsmangel;Wohnungsnot/-preise
 Wohnungsmarkt;Wohnungsnot/-preise
 Wohnraum;Wohnungsnot/-preise
+Mangelnder Wohnraum;Wohnungsnot/-preise
 Wohnraum für Familien;Wohnungsnot/-preise
 Zahlbarer Wohnungsraum;Wohnungsnot/-preise
+Zahlbaren Wohnraum;Wohnungsnot/-preise
 Bezahlbarer Wohnraum;Wohnungsnot/-preise
 Bezahlbare Wohnungen;Wohnungsnot/-preise
 Steigende Mieten;Wohnungsnot/-preise
 Wohnen;Wohnungsnot/-preise
+Wohnungsnot(Teuerungen) Platznot Fachmittarbeitermangel;Wohnungsnot/-preise
 Wokeismus;Wokeismus
