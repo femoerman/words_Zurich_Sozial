@@ -29,6 +29,7 @@ Bildungsfremde Personen erreichen;Angebot
 Sinkende Arbeitslosigkeit;Angebot
 Neue Herausforderungen bzgl.Betriebsbewilligungen;Angebot
 Professionalisierungsaufwand;Angebot
+Sozialversicherungen;Angebot
 Arbeitsagogik;Arbeitsagogik
 Arbeitsbedingungen;Arbeitsbedingungen
 Arbeitsbelastung-Stellenmangel gesetzliche Sozialarbeit;Arbeitsbedingungen
@@ -38,6 +39,7 @@ Arbeitsbedingungen stationäre Kinder-undJugendheime;Arbeitsbedingungen
 Hausdienst;Arbeitsbedingungen
 Umgang (intern);Arbeitsbedingungen
 Soziale  Arbeit u.Gesundheit;Arbeitsbedingungen
+Kommunikations-Kanäle;Arbeitsbedingungen
 Möglichkeiten;Arbeitsbedingungen
 Arbeitsintegration;Arbeitsintegration
 Arbeitsmarktintegration;Arbeitsintegration
@@ -60,10 +62,12 @@ Armut / Kosten;Armut
 Armutsbetroffene;Armut
 Alleinerziehenden  undArmut;Armut
 Kinderarmut;Armut
+Armut und Migration;Armut
 Asylwesen;Asylwesen
 Asyl;Asylwesen
 Flüchtlinge;Asylwesen
 Geflüchtete;Asylwesen
+Viele Geflüchtete;Asylwesen
 Anstieg der Klient*innenimAsylbereich;Asylwesen
 Verdoppelung der Organisation;Asylwesen
 Asyl-Migration allg.;Asylwesen
@@ -91,6 +95,7 @@ Infiltrierung / Familinnachzug;Asylwesen
 Belastung des Schulsystems;Belastung Schulsystem
 Frühe Förderung;Belastung Schulsystem
 Integration vs. Inklusion;Belastung Schulsystem
+Integration in Regelklassen;Belastung Schulsystem
 Grenzen der Integration;Belastung Schulsystem
 Baustelle Inklusion;Belastung Schulsystem
 Ausbildung von Jugendlichen;Belastung Schulsystem
@@ -106,6 +111,7 @@ Digitalität;Digitalisierung/Digitalität
 Digitalisierung der Dienstleistung;Digitalisierung/Digitalität
 Weiterentwicklung Chatangebot;Digitalisierung/Digitalität
 Zunehmende Digitalisierung;Digitalisierung/Digitalität
+KI;Digitalisierung/Digitalität
 Diversität;Diversität/LGBTQ+
 Heterogenität;Diversität/LGBTQ+
 LGBTQ+/HIV-sensible Fachpersonen;Diversität/LGBTQ+
@@ -122,6 +128,7 @@ Ineffizienz;Entprofessionalisierung
 Umsetzung Berufskodex;Entprofessionalisierung
 Entwicklung des Gesundheitswesens;Entwicklung Gesundheitswesen
 Krankenkasse;Entwicklung Gesundheitswesen
+Krankenkassen;Entwicklung Gesundheitswesen
 Tarif;Entwicklung Gesundheitswesen
 Prämienverbilligung;Entwicklung Gesundheitswesen
 Kostenexplosion im Gesundheitswesen;Entwicklung Gesundheitswesen
@@ -135,6 +142,7 @@ Med. Betreuung;Entwicklung Gesundheitswesen
 GD-Zürich;Entwicklung Gesundheitswesen
 Klientel Langzeitpflege;Entwicklung Gesundheitswesen
 Zunehmende Pflegebedürftigkeit;Entwicklung Gesundheitswesen
+Pflegeversorgung;Entwicklung Gesundheitswesen
 Adipöse Patient*innen;Entwicklung Gesundheitswesen
 Erwartungshaltung;Erwartungshaltung
 Anspruchshaltung und Opportunismus;Erwartungshaltung
@@ -200,6 +208,7 @@ Sparmassnahmen;Finanzierung
 Austeritäts;Finanzierung
 Ehrenamtliches Engagement;Freiwilligenarbeit
 Freiwilligenarbeit;Freiwilligenarbeit
+Wenig Freiwillige;Freiwilligenarbeit
 Weniger Freiwillige;Freiwilligenarbeit
 Nachbarschaftshilfe Freiwillige &Klienten;Freiwilligenarbeit
 Nachbarschaftshilfe Vorstand;Freiwilligenarbeit
@@ -257,8 +266,11 @@ Verminderung unnötiger Beistandswechsel;Kindeswohl/-schutz
 Traumatisierte Kinder;Kindeswohl/-schutz
 Samenspende;Kindeswohl/-schutz
 Justiz via Menschlichkeit;Kindeswohl/-schutz
-Service-User-Involvement;Klient:innen als Expert:innen
-Echter Klient*innen-Einbezug;Klient:innen als Expert:innen
+Service-User-Involvement;Klient:in im Fokus
+Echter Klient*innen-Einbezug;Klient:in im Fokus
+Selbstbestimmung;Klient:in im Fokus
+Klimakrise;Klimakrise
+Klimawandel;Klimakrise
 steigende Krankenkassenprämien;Krankenkassenprämien
 steigende Krankenversicherungsprämien;Krankenkassenprämien
 Teuerung und Krankenkassenprämien;Krankenkassenprämien
@@ -308,6 +320,15 @@ Jugendarbeitslosigkeit;Perspektiven für Jugendliche
 High Potential;Perspektiven für Jugendliche
 Karriere;Perspektiven für Jugendliche
 Jugendgewalt;Perspektiven für Jugendliche
+Politik;Politik
+Drogenpolitik;Politik
+Kanton bürgerlich dominiert,versagtbeiArmutsbekämpfung;Politik
+Politik fürs Volk?;Politik
+Soziale Arbeit unpolitisch;Politik
+Wahlen;Politik
+Politische Partizipation;Politik
+Politische Teilhabe;Politik
+EL-Reform;Politik
 Prekariat Arbeitsmarkt;Prekariat Arbeitsmarkt
 Temporär Büros;Prekariat Arbeitsmarkt
 Arbeitswelt;Prekariat Arbeitsmarkt
@@ -332,12 +353,27 @@ Therapieangebote für Kindeltern;Psychische Erkrankungen
 Psychische Gesundheit Jugendliche;Psychische Gesundheit Jugendlicher
 Psychische Gesundheit JJE;Psychische Gesundheit Jugendlicher
 Psychischer Gesundheitszustand Jugendlicher;Psychische Gesundheit Jugendlicher
+Psychische Belastungen Jugend;Psychische Gesundheit Jugendlicher
 Rechtsextremismus;Rassismus
 Ausländerfeindlichkeit;Rassismus
 Prekarität;Sans-Papiers
 Wohnungssuche;Sans-Papiers
 Sozialer Schutz;Sans-Papiers
 Schulsozialpädagogik;Schulsozialpädagogik
+Selbstbestimmungsgesetz;Selbstbestimmungsgesetz
+neues Selbstbestimmungsgesetz;Selbstbestimmungsgesetz
+UNO-BRK;Selbstbestimmungsgesetz
+Umsetzung UNO-Behindertenrechtskonvention;Selbstbestimmungsgesetz
+Umsetzung UNO-BRK;Selbstbestimmungsgesetz
+Umsetzung BehiG;Selbstbestimmungsgesetz
+SLBG;Selbstbestimmungsgesetz
+Selbstbestimmung und Teilhabe;Selbstbestimmungsgesetz
+SEBE;Selbstbestimmungsgesetz
+Neue Gesetzgebung SEBE;Selbstbestimmungsgesetz
+Änderungen Heimfinanzierung;Selbstbestimmungsgesetz
+Subjektfinanzierung;Selbstbestimmungsgesetz
+Auszug aus Wohnheimen;Selbstbestimmungsgesetz
+Hindernisfreier Wohnraum;Selbstbestimmungsgesetz
 Sexualisierte Gewalt;Sexualisierte Gewalt
 Soziales Gefüge;Soziales Gefüge
 Verdichtung;Soziales Gefüge
@@ -426,6 +462,7 @@ Generationenübergreifendes Denken;Werte leben
 Solidarität;Werte leben
 Mühe geben;Werte leben
 Chancengleichheit;Werte leben
+Gerechtigkeit und Gleichheit;Werte leben
 Differenzierung versus Zusammenhalt;Werte leben
 Wohnungsnot;Wohnungsnot/-preise
 Wohnungen;Wohnungsnot/-preise
